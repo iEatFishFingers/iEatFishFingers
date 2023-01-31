@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iEatFishFingers
+- 👋 Hi, my name is Yohan
 - 👀 I’m interested in Software development as well as Video Editing using game engine like Unity and Unreal Engine
 - 🌱 I’m currently learning C++ & Python (Machine Learning)
 - 📫 How to reach me:
