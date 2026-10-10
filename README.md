@@ -4,7 +4,7 @@
 - 📫 How to reach me:
 -   LinkedIn - https://www.linkedin.com/in/yohan-youmbi-783936102/
 -   Instagram - https://www.instagram.com/jinchuriki.mp4/
--   Email - yoanne@techie.com
+-   Email - youmbidev@gmail.com
 
 <!---
 iEatFishFingers/iEatFishFingers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
